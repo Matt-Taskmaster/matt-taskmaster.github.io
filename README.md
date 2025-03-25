@@ -22,6 +22,8 @@ Stop stressing and <a href="#contact">Contact me now!</a>
 > Travel Planning: Plan and book travel arrangements, including flights, hotels, and transportation. 
 >
 
+<img src="exec_assistant.JPG" alt="exec_assistant" />
+
 <a href="#headline">Back to top</a>
 
 ## Contact:
